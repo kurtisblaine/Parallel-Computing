@@ -1,0 +1,7 @@
+C:\Users\M&R\Desktop\CSC 410 Parallel Computing\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\M&R\Desktop\CSC 410 Parallel Computing\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\M&R\Desktop\CSC 410 Parallel Computing\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\M&R\Desktop\CSC 410 Parallel Computing\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\M&R\Desktop\CSC 410 Parallel Computing\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\M&R\Desktop\CSC 410 Parallel Computing\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\M&R\Desktop\CSC 410 Parallel Computing\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
